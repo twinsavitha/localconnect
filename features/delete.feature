@@ -1,3 +1,5 @@
 Feature: Delete blog
 
- Scenario: Delete blog changed for
+ Scenario: Delete blog 
+
+ Given one
