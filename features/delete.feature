@@ -1,5 +1,3 @@
 Feature: Delete blog
 
- Scenario: Delete blog changed for test
-
-Given one 
+ Scenario: Delete blog changed for
